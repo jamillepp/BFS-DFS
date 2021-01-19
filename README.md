@@ -8,5 +8,5 @@ You need to pass a graph with this format:
   
 Where G its a Array with two itens:
 
-  ### V = a Array of numbers like this [ 1, 2, 3, 4 ], that will be the label of your nodes.
+  ### V = a Array of numbers like this [ 1, 2, 3, 4 ], that will be the labels of your nodes.
   ### E = a Array of tuples with two numbers that represents the edges of your graph, like this [ (1, 2), (1, 3), (3, 4) ] 
