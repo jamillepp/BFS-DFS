@@ -1,5 +1,5 @@
 # BFS-DFS
-I created a Breadth-first and a Depth-first search algorithm so you dont need.
+I created a Breadth-first and a Depth-first search algorithm so you dont have to.
 
 # Struture
 You need to pass a graph with this format:
