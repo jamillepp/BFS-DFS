@@ -4,7 +4,7 @@ I created a Breadth-first and a Depth-first search algorithm so you dont need.
 # Struture
 You need to pass a graph with this format:
 
-  ###G [ V[], E[] ]
+  ### G [ V[], E[] ]
   
 Where G its Array with two itens:
 
